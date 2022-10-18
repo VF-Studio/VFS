@@ -1,6 +1,7 @@
 {
 "name": "Virtual Flame Studios",
-"description": "Virtual Flame Studios Pool",
+"description": "A pool worth swimming in",
 "ticker": "VFS",
-"homepage": "https://www.vfstudios.io/"
+"homepage": "https://www.vfstudios.io/",
+"extended": "https://raw.githubusercontent.com/VFStudios/VFS/main/meta.json"
 }
