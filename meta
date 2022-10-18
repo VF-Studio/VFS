@@ -1,24 +1,24 @@
 {
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
-        "location": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/VFStudios/VFS/main/VFS-icon.png",
+        "url_png_logo": "Virtual Flame Studios",
+        "location": "Deep (Cyber) Space",
         "social": {
-            "twitter_handle": "",
+            "twitter_handle": "VFlameStudios",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "",
+            "discord_handle": "https://discord.gg/5NaWxNQg",
+            "github_handle": "VFS",
             "patreon_handle": "",
             "linkedin_handle": "",
-            "ada_handle": ""
+            "ada_handle": "$"
         },
         "about": {
-            "me": "",
-            "server": "",
-            "company": ""
+            "me": "VFS",
+            "server": "A pool worth swimming in",
+            "company": "Virtual Flame Studios"
         }
     }
 }
